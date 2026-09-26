@@ -80,13 +80,3 @@ These patterns highlight career opportunities, employee benefits, and compensati
 - Regularly monitor headcount, retention, and turnover KPIs to identify emerging workforce trends.
 
 ---
-
-## ⚠️ Caveats & Assumptions
-
-- The analysis is based on the employee and employment history data provided for the project.
-- Employees without a recorded termination date are treated as active where applicable.
-- Retention and turnover figures depend on the selected reporting period and the calculation logic implemented in the Power BI model.
-- Termination reasons reflect the categories available in the source data and may not capture every factor influencing employee departures.
-- The findings identify patterns within the available workforce data and should not be interpreted as establishing causation.
-
--
