@@ -8,7 +8,7 @@ The dashboard provides insights into **employee headcount, retention, turnover, 
 
 ### 🔗 Interactive Dashboard
 
-👉 **[View the Interactive Power BI Dashboard](PASTE_YOUR_POWER_BI_LINK_HERE)**
+👉 **[[View the Interactive Power BI Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiMmRhZTNkZjQtZDA3Mi00YTk1LWFkNjYtY2EzMDA4NGRjMjI2IiwidCI6IjhkMzFkMTQ0LWI3ZjMtNDY2OC1iOGEwLTZhNzRmNWU0Y2Q4MSJ9)**
 
 > 💡 Use the interactive dashboard to explore different reporting periods, departments, job levels, and employee characteristics.
 
